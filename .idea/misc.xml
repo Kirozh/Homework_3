@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Kirill/AndroidStudioProjects/Andersen_homework_3/app/src/main/res/drawable/background.xml" value="0.1" />
+        <entry key="..\:/Users/Kirill/AndroidStudioProjects/Andersen_homework_3/app/src/main/res/layout-land/austria_flag.xml" value="0.2609375" />
+        <entry key="..\:/Users/Kirill/AndroidStudioProjects/Andersen_homework_3/app/src/main/res/layout-land/columbia_flag.xml" value="0.16480263157894737" />
+        <entry key="..\:/Users/Kirill/AndroidStudioProjects/Andersen_homework_3/app/src/main/res/layout-land/denmark_flag.xml" value="0.1" />
+        <entry key="..\:/Users/Kirill/AndroidStudioProjects/Andersen_homework_3/app/src/main/res/layout-land/italy_flag.xml" value="0.16480263157894737" />
+        <entry key="..\:/Users/Kirill/AndroidStudioProjects/Andersen_homework_3/app/src/main/res/layout-land/madagaskar_flag.xml" value="0.16480263157894737" />
+        <entry key="..\:/Users/Kirill/AndroidStudioProjects/Andersen_homework_3/app/src/main/res/layout-land/poland_flag.xml" value="0.2609375" />
+        <entry key="..\:/Users/Kirill/AndroidStudioProjects/Andersen_homework_3/app/src/main/res/layout-land/switzerland_flag.xml" value="0.1" />
+        <entry key="..\:/Users/Kirill/AndroidStudioProjects/Andersen_homework_3/app/src/main/res/layout-land/thailand_flag.xml" value="0.16480263157894737" />
+        <entry key="..\:/Users/Kirill/AndroidStudioProjects/Andersen_homework_3/app/src/main/res/layout-square/flag.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Kirill/AndroidStudioProjects/Andersen_homework_3/app/src/main/res/layout-square/switzerland_flag.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Kirill/AndroidStudioProjects/Andersen_homework_3/app/src/main/res/layout/activity_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

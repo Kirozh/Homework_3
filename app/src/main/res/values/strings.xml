@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Andersen_homework_3</string>
+    <string name="input_url">Input url</string>
+    <string name="image_download">Image download</string>
+    <string name="load_string">Load</string>
+    <string name="load_image">loaded image</string>
+</resources>
